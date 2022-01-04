@@ -1,2 +1,2 @@
-# Four-ancient-writing-systems
+# FourAncienWritingSystem
 The development of the four ancient writing systems
